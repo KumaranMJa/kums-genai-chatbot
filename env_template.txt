@@ -1,0 +1,5 @@
+//env files will be there locally, it will not be visible to all, so we create 
+the template and mention the keys we use in the .env files to know to others
+
+
+GROQ_API_KEY=your_api_key
